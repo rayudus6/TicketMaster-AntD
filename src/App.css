@@ -1,0 +1,44 @@
+@import '~antd/dist/antd.css';
+
+body{
+  font-family: 'Tomorrow';
+}
+.login-form, .register-form{
+  width: 450px;
+  padding: 200px 20px;
+  margin: 0px auto;
+  align-items: center;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+.logo img{
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.logo-dummy h1{
+  color: #fff;
+  font-size: 36px;
+  width: 220px;
+  height: 31px;
+  float: left;
+}
+.ant-menu-item{
+  font-size: 20px;
+}
+.home-content img{
+  margin: 0px auto;
+    display: block;
+}
+.home-content h1{
+  font-size: 48px;
+  text-align: center;
+}
+.ant-table-wrapper{
+  margin-top: 64px;
+}
